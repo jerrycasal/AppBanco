@@ -1,0 +1,70 @@
+<resources>
+    <string name="app_name">Project</string>
+    <string name="tx_nombre">Usuario</string>
+    <string name="tx_pass">Contraseña</string>
+    <string name="btn_iniciaSesion">Aceptar</string>
+    <string name="btn_registrar">Registrate</string>
+    <string name="btn_regresar">Regresar</string>
+    <string name="tx_welcome">Bienvenido</string>
+    <string name="tx_indicacion">Para comenzar inicia sesión con tu usuario y contraseña</string>
+
+
+    <string name="btn_iniciaSesion2">Salir</string>
+    <string name="btnCancelar">Cancelar</string>
+    <string name="title_activity_i">I</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="textView4"> Inicie Sesión</string>
+    <string name="textView2"> Datos Correctos</string>
+    <string name="borrar"> Borrar </string>
+
+    <string-array name="Ciudades">
+        <item>Ciudad</item>
+        <item>Guayaquil</item>
+        <item>Manabi</item>
+        <item>Quito</item>
+        <item>Otros</item>
+
+    </string-array>
+
+    <string-array name="CedulaPasaporte">
+        <item>Cedula</item>
+        <item>Pasaporte</item>
+    </string-array>
+
+    <string-array name="ServiciosBasicos">
+        <item>Agua</item>
+        <item>Luz CNEL</item>
+        <item>Telefono CNT</item>
+        <item>Internet Netlife</item>
+        <item>Internet Claro</item>
+        <item>Internet TvCable</item>
+        <item>Television TvCable</item>
+        <item>Television DirecTv</item>
+        <item>Prestamos Bancarios</item>
+        <item>SRI</item>
+        <item>Donaciones</item>
+    </string-array>
+
+    <string-array name="TipoCuenta">
+        <item>Ahorro</item>
+        <item>Corriente</item>
+        <item>Ambas</item>
+    </string-array>
+
+    <string-array name="CuentaElejir">
+        <item>Ahorro</item>
+        <item>Corriente</item>
+    </string-array>
+
+    <string name="rbtn_masculino"> Masculino</string>
+    <string name="rbtn_femenino"> Femenino</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+</resources>
